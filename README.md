@@ -1,7 +1,7 @@
 # bitcoinChart
 
-bitcoinChart shows bitcoin price for last 30 days
-Powered by React, d3, coindesk API
+bitcoinChart shows bitcoin price for last 30 days.
+Powered by **React**, **d3**, **coindesk API**.
 
 ![bitcoinChart Screenshot](screenshot.png)
 
